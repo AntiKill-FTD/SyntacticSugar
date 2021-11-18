@@ -1,4 +1,4 @@
 #忽略bin，obj文件夹
 /src/.vs
-/src/bin
-/src/obj
+/src/*/bin
+/src/*/obj
