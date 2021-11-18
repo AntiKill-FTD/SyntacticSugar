@@ -12,5 +12,10 @@ namespace SyntacticSugar
         {
 
         }
+
+        public void MyFunc1(string name, string sex, string age, string country = "China")
+        {
+
+        }
     }
 }
